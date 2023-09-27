@@ -1,2 +1,2 @@
 # test
-[Link text Here](https://dev-app.leadit.pl)
+[Link text Here](https://dev-app.leadguru.pl)
